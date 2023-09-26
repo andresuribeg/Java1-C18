@@ -12,7 +12,7 @@ public class Clase2 {
         // Objetos o Wrapper
         //Cadena de caracter
         String valor1; // si esta de esta forma la variable es null
-        String valor2="Mauricio";//Variable inicializada
+        String valor2="Andres";//Variable inicializada
 
         Date horaActual;//Declaracion
         Date horaSiguiente = new Date();
