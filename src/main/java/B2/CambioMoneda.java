@@ -16,15 +16,15 @@ public class CambioMoneda {
     }
 
     private static void libras(int pesos) {
-        System.out.println("El valor en libras es: " + pesos / 4900);
+        System.out.println("El valor de $"+ pesos +" en libras es: " + pesos / 4900);
     }
 
     private static void euros(int pesos) {
-        System.out.println("El valor en euros es: " + pesos / 4300);
+        System.out.println("El valor de $"+ pesos +" en euros es: " + pesos / 4300);
     }
 
     private static void dolares(int pesos) {
-        System.out.println("El valor en dólares es: " + pesos / 4900);
+        System.out.println("El valor de $"+ pesos +" en dólares es: " + pesos / 4900);
     }
 }
 

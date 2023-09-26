@@ -32,12 +32,12 @@ public class Calculadora {
     }
 
     private static void divi(int numero2, int numero1) {
-        System.out.println("La Divicion es :"+(numero1/numero2));
+        System.out.println("La División es :"+(numero1/numero2));
 
     }
 
     private static void multi(int numero2, int numero1) {
-        System.out.println("La Multiplicacion es :"+(numero1*numero2));
+        System.out.println("La Multiplicación es :"+(numero1*numero2));
     }
 
     private static void restar(int numero2, int numero1) {
