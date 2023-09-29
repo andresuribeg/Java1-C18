@@ -19,4 +19,3 @@ public class PromedioNotas {
         System.out.println("El promedio de las notas de los estudiantes es: " + promedio);
     }
 }
-
