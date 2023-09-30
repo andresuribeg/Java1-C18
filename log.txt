@@ -1,0 +1,14 @@
+sept 30, 2023 10:46:13 A. M. B4.MultiplicacionHasta100 main
+INFORMACIÓN: Resultado de la multiplicación: 90
+sept 30, 2023 10:46:13 A. M. B4.MultiplicacionHasta100 main
+INFORMACIÓN: La multiplicación no supera 100. Ingresa números nuevamente.
+sept 30, 2023 10:46:29 A. M. B4.MultiplicacionHasta100 main
+INFORMACIÓN: Resultado de la multiplicación: 6
+sept 30, 2023 10:46:29 A. M. B4.MultiplicacionHasta100 main
+INFORMACIÓN: La multiplicación no supera 100. Ingresa números nuevamente.
+sept 30, 2023 10:46:32 A. M. B4.MultiplicacionHasta100 main
+INFORMACIÓN: Resultado de la multiplicación: 100
+sept 30, 2023 10:46:32 A. M. B4.MultiplicacionHasta100 main
+INFORMACIÓN: La multiplicación no supera 100. Ingresa números nuevamente.
+sept 30, 2023 10:46:39 A. M. B4.MultiplicacionHasta100 main
+INFORMACIÓN: Resultado de la multiplicación: 110
